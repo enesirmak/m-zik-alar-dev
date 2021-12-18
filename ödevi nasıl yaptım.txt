@@ -1,0 +1,12 @@
+yeterli bilgim olmadığı için ödevi youtube den video izleyerek yaptım
+görsel vb şeyleri videoyu çeken kişiden aldım türkçe dilini kendim kodlama dan ekledim
+geri kalan 5 6 dili videouyu çeken kişi eklediği için ekledim
+videyu çeken adam hintli olduğu için müzik apilerinde hintçe müzikler de var
+youtube ve spotify benzeri birşey uygulama içinde mevcut
+onları türkçe yapabilsem de home ekranı giriş yerleri genel olarak ingilize
+diğer diller de home ekranı çevrilse de ne yaparsam yapayım türkçe yapamadım elimden bu kadarı geldi 
+çok uğraşıp araştırmama rağmen daha fazlasını yapamadım
+çok hata aldım çünkü youtube ve spotify benzeri yerler başka bir yerden api alıyordu
+ve vide ingilizce çekildiği için anlamakta zorluk çektiğimden bakarak aynısını yaptım
+türkçe olsaydı kendime göre şekillendirebilirdim
+ama bilgim az olduğu için yapamadım  
